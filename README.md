@@ -357,7 +357,7 @@ The report demonstrates this functionality through the yellow push-button operat
 ## 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="images/circuit-diagram.png" alt="Smart Trolley Circuit Diagram" width="900">
+  <img src="circuitdiagram.png" alt="Smart Trolley Circuit Diagram" width="900">
 </p>
 
 ### 🔗 Major Connections
