@@ -469,13 +469,11 @@ The report documents Arduino IDE setup, board selection, COM-port configuration,
 Smart-Trolley-Automatic-Billing/
 │
 ├── 📄 README.md
-│
-└── 📁 documentation/
-    └── 📄 mini-project-report.pdf
+├── 📄 SmartTrolley.ino
+├── 📄 circuitdiagram.png
+├── 📄 prototype.png
+└── 📄 Project Report.pdf
 ```
-
-> 📌 Rename the image filenames above according to the actual files in your repository.
-
 ---
 
 ## 🎯 Skills Demonstrated
