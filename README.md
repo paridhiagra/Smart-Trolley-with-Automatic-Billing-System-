@@ -20,7 +20,7 @@ An embedded systems mini project that uses **RFID technology, Arduino Nano, LCD,
 
 ## 📸 Project Preview
 
-<p align="center"> <img src="images/prototype.jpg" alt="Smart Trolley Hardware Prototype" width="850"> </p>
+<p align="center"> <img src="prototype.png" alt="Smart Trolley Hardware Prototype" width="850"> </p>
 
 > 🛒 The hardware prototype integrates the Arduino Nano, EM-18 RFID reader, LCD, GSM module, buttons, LEDs, buzzer, and supporting circuitry.
 
