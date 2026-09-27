@@ -20,10 +20,6 @@ An embedded systems mini project that uses **RFID technology, Arduino Nano, LCD,
 
 ## 📸 Project Preview
 
-<p align="center">
-  <img src="images/prototype.jpg" alt="Smart Trolley Hardware Prototype" width="850">
-</p>
-
 > 🛒 The hardware prototype integrates the Arduino Nano, EM-18 RFID reader, LCD, GSM module, buttons, LEDs, buzzer, and supporting circuitry.
 
 ---
@@ -395,25 +391,14 @@ Arduino Nano
 
 When a product RFID tag is scanned, the LCD displays the **product name and price**, while the total bill is updated.
 
-<p align="center">
-  <img src="images/product-scan.jpg" alt="Product RFID Scanning Output" width="700">
-</p>
-
 ### ➖ Product Removal
 
 When the removal operation is activated and the product RFID tag is scanned, the system displays the removed-item message and decreases the total cost.
 
-<p align="center">
-  <img src="images/item-removal.jpg" alt="Item Removal Output" width="700">
-</p>
 
 ### 📱 GSM Bill Message
 
 The GSM module can send the generated bill/text message to the customer's mobile number.
-
-<p align="center">
-  <img src="images/gsm-bill.jpg" alt="GSM Bill Message" width="700">
-</p>
 
 The report documents these three hardware-model operations in its results section.
 
