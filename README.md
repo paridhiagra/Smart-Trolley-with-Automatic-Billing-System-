@@ -585,8 +585,6 @@ This project provided practical exposure to:
 **Institute:** Pranveer Singh Institute of Technology, Kanpur
 **Session:** 2024–25
 
-The team members and project details are taken from the submitted mini-project report.
-
 ---
 
 ## 📄 Project Documentation
